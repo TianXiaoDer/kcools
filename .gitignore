@@ -1,3 +1,4 @@
 # Project exclude paths
 /eureka/target/
 /gateway/target/
+/kcools.iml
